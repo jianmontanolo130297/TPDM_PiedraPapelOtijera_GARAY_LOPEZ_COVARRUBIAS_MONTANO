@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48637868665",
+    "firebase_url": "https://ppt1-b88a7.firebaseio.com",
+    "project_id": "ppt1-b88a7",
+    "storage_bucket": "ppt1-b88a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48637868665:android:f2b6e732f4d6d3e2",
+        "android_client_info": {
+          "package_name": "com.example.ppt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48637868665-stj848qd1jhoh3e2gp69ikl2j32f8oef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjhpem_Esm-lEx6gmwCa18DKL2vV7Mjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48637868665-stj848qd1jhoh3e2gp69ikl2j32f8oef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
